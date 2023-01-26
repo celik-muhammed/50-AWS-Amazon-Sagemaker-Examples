@@ -6,4 +6,4 @@
 
 
 #### introduction_to_amazon_algorithms
-- [xgboost_linear_learner_tabular](./xgboost_customer_churn_2023-01-23/xgboost_customer_churn.ipynb)
+- [xgboost_linear_learner_tabular](./xgboost_customer_churn_2023-01-24/Amazon_Tabular_Regression_XGBoost_LinearLearner.ipynb)
