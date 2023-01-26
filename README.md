@@ -2,17 +2,18 @@
 
 
 
->### Cloud Training Project
+>## Cloud Training Project
 
 - [AWS_ML Bike Rental XGBoost Regression Cloud Training Project](https://github.com/celik-muhammed/AWS_ML-Bike-Rental-Regression-Cloud-Training-Project/blob/master/README.md)
 
 
 
-<br><br>
->### Sagemaker Examples
-- #### introduction_to_applying_machine_learning
+<br>
+
+>#### Case Study - Sagemaker Examples
+- **introduction_to_applying_machine_learning**
     - [xgboost_customer_churn](./xgboost_customer_churn_2023-01-23/xgboost_customer_churn.ipynb)
 
 
-- #### introduction_to_amazon_algorithms
+- **introduction_to_amazon_algorithms**
     - [xgboost_linear_learner_tabular](./xgboost_customer_churn_2023-01-23/xgboost_customer_churn.ipynb)
