@@ -4,7 +4,7 @@
 
 >## Cloud Training Project
 
-- [AWS_ML Bike Rental XGBoost Regression Cloud Training Project](https://github.com/celik-muhammed/AWS_ML-Bike-Rental-Regression-Cloud-Training-Project/blob/master/README.md)
+- [ML_AWS Bike Rental XGBoost Regression Cloud Training Project](https://github.com/celik-muhammed/ML_AWS-Bike-Rental-Regression-Cloud-Training-Project/blob/master/README.md)
 
 
 
