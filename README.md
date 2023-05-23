@@ -1,14 +1,16 @@
 # 50 AWS Amazon Sagemaker Examples
 
 
-
 >## Cloud Training Project
 
 - [ML_AWS Bike Rental XGBoost Regression Cloud Training Project](https://github.com/celik-muhammed/ML_AWS-Bike-Rental-Regression-Cloud-Training-Project/blob/master/README.md)
 
 
 
+
+
 <br>
+<hr>
 
 >#### Case Study - Sagemaker Examples
 - **introduction_to_applying_machine_learning**
